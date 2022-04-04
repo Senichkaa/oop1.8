@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UT OOP1.8.cpp
+G:\Visual Studio Community 2019\repos\oop1.8\oop1.8\Fraction.cpp(31,13): warning C4838: Преобразование из "const unsigned long" в "long" требует сужающего преобразования.
+G:\Visual Studio Community 2019\repos\oop1.8\oop1.8\Fraction.cpp(83,10): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+     Создается библиотека G:\Visual Studio Community 2019\repos\oop1.8\Debug\UT OOP1.8.lib и объект G:\Visual Studio Community 2019\repos\oop1.8\Debug\UT OOP1.8.exp
+  UT OOP1.8.vcxproj -> G:\Visual Studio Community 2019\repos\oop1.8\Debug\UT OOP1.8.dll
